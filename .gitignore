@@ -3,3 +3,5 @@ venv/
 *text_index/
 *.DS_Store
 *childVectorDB/
+*codeReviewRAG/
+*rerankDB
