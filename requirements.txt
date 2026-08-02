@@ -21,3 +21,6 @@ accelerate==1.14.0
 tokenizers==0.22.2
 hf-xet==1.5.2
 evaluate==0.4.6
+crewai==0.28.8
+crewai_tools==0.1.6
+setuptools==81.0.0
