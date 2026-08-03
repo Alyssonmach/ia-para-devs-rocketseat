@@ -1,4 +1,4 @@
-# Explorando Inteligência Artificial
+# Curso: IA Para Devs | Plataforma: Rocketseat
 
 Este é um repositório com foco exploratório e didático baseado no curso "IA para Devs" da plataforma Rocketseat. O objetivo principal é o estudo e a prática de diversos conceitos fundamentais no ecossistema de Inteligência Artificial.
 
